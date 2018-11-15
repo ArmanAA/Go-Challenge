@@ -22,10 +22,11 @@ This is an attempt to solve the Go-lang Challenge. The solution covers the liste
 * [+] Provides test coverage.
 * [+] Adds validation for all the provided inputs.
 ## How to Run:
-Untar the file into your GOPATH source directory.
+Download the source repository from Github
 ```sh
-cd $GOPATH/src/omise/
-tar -xzfv challenges.tar.gz
+cd $GOPATH/src/
+git clone https://github.com/ArmanAA/Go-Challenge.git
+
 ```
 Install the dependencies and build the project via Make.
 ```sh
